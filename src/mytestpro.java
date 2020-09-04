@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class mytestpro
+ * Servlet implementation class mytestpro one
  */
 @WebServlet("/mytestpro")
 public class mytestpro extends HttpServlet {
